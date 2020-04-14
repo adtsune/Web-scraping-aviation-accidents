@@ -16,5 +16,7 @@ La actividad ha sido realizada de manera individual por **Teguayco Gutiérrez Go
 
 ## Recursos
 
-1. Lawson, R. (2015). _Web Scraping with Python_. Packt Publishing Ltd. Chapter 2. Scraping the Data.
-2. Mitchel, R. (2015). _Web Scraping with Python: Collecting Data from the Modern Web_. O'Reilly Media, Inc. Chapter 1. Your First Web Scraper.
+1. Subirats, L., Calvo, M. (2018). _Web Scraping_. Editorial UOC.
+2. Masip, D. (2010). _El lenguaje Python_. Editorial UOC.
+3. Lawson, R. (2015). _Web Scraping with Python_. Packt Publishing Ltd. Chapter 2. Scraping the Data.
+4. Mitchel, R. (2015). _Web Scraping with Python: Collecting Data from the Modern Web_. O'Reilly Media, Inc. Chapter 1. Your First Web Scraper.
